@@ -1,0 +1,10 @@
+.moviecard {
+    background-color: black;
+    color:white;
+    text-align: center;
+    width:30%;
+}
+
+ul {
+    list-style-type: none;
+}
